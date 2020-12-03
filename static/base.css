@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin-top: 0px!important;
+    /*background-image: url("./bgc1.jpg");*/
+}
+ul {
+    list-style-type:none ;
+}
+img {
+    margin-top: 0px;
+}
+div.navbar.navbar-default.navbar-fixed-top {
+    margin-bottom: 0px;
+}
+div.row {
+    margin-top: 30px;
+}
+ul.navbar-right {
+    margin-right: 0px;
+}
